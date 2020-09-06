@@ -1,6 +1,6 @@
 ## Hey 👋, This is Armian Sangaji
 [![Gmail Badge](https://img.shields.io/badge/-ian@sangaji.co-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ian@sangaji.co)](mailto:ian@sangaji.co) 
-[![Linkedin Badge](https://img.shields.io/badge/-iansangaji-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iansangaji/)](https://www.linkedin.com/in/iansangaji/) [![Github Badge](https://img.shields.io/badge/-iansangaji-grey?style=flat&logo=github&logoColor=white&link=https://github.com/iansangaji/)](https://www.github.com/iansangaji/) [![Twitter Badge](https://img.shields.io/badge/-iansangaji_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/iansangaji_/)](https://www.twitter.com/iansangaji_/) 
+[![Linkedin Badge](https://img.shields.io/badge/-iansangaji-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iansangaji/)](https://www.linkedin.com/in/iansangaji/) [![Twitter Badge](https://img.shields.io/badge/-iansangaji_-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/iansangaji_/)](https://www.twitter.com/iansangaji_/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=iansangaji alt=iansangaji /> </p>
 
